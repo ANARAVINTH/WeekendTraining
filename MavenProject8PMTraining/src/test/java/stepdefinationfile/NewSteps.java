@@ -136,4 +136,8 @@ public class NewSteps extends BrowserInvocation {
 
 
     }
+
+    @Then("Hello code")
+    public void helloCode() {
+    }
 }
