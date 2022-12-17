@@ -25,6 +25,10 @@ Feature: Validate login
    Scenario: Exceptions
      Then Handle Stale Element Exceptions
 
+   @When
+   Scenario : Demo
+     Then Hello code
+
 
 
 
